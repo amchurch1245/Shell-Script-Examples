@@ -1,0 +1,2 @@
+Shell Script Intro
+Purpose: To read in and write out a name, and to get familiar with loops
